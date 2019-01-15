@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+AriasViewTool::Renderer.copyright "Hector Arias", "All rights reserved"
+```
 
 ## Development
 
